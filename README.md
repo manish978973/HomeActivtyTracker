@@ -1,4 +1,4 @@
-<h1>HomeActivtyTracker</h1>
+<h1>Home Activty Tracker Android Application</h1>
 
 An Android application has been developed on Android Studio IDE based on Java to track daily user applications. The [Android Studio](https://developer.android.com/studio) needs to be set up in local environment to flag off the development.
 
